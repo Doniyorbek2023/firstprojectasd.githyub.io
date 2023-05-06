@@ -1,2 +1,2 @@
-# firstprojectasd.githyub.io
+# Doniyorbek Islomov
 My first github repository
